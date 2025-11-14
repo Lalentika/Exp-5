@@ -24,27 +24,27 @@ vi)Sequence Diagram
 
 Usecase Diagram
 
-<img width="1304" height="994" alt="image" src="https://github.com/user-attachments/assets/eb35ad4b-4fe6-4968-b48a-b42a3ca02907" />
+![STUDENTREGUseCase](https://github.com/user-attachments/assets/a911e69a-007e-490f-a814-561f197802e2)
 
 Class Diagram
 
-<img width="1052" height="662" alt="image" src="https://github.com/user-attachments/assets/7dc47a91-9b9d-4427-a5bd-c01d0890cb32" />
-
-Activity Diagram
-
-<img width="889" height="1016" alt="image" src="https://github.com/user-attachments/assets/562c6d39-6a73-4743-acff-54b2cc7e3e29" />
+![STUDENTREGClass](https://github.com/user-attachments/assets/63c0bb78-c837-4e55-904f-96132af3934f)
 
 Communication Diagram
 
-<img width="1251" height="856" alt="image" src="https://github.com/user-attachments/assets/cf222021-6621-44c7-8a19-f25a8a61a21b" />
+<img width="946" height="665" alt="image" src="https://github.com/user-attachments/assets/24b95458-1da4-421e-9cd2-faff44e9e83a" />
 
 Package Diagram
 
-<img width="1033" height="642" alt="image" src="https://github.com/user-attachments/assets/dd454c82-9812-4105-9fcd-e09d80da0792" />
+![STUDENTREGPackage](https://github.com/user-attachments/assets/a34cae92-96df-404f-9648-a6e263b6be84)
 
 Sequence Diagram
 
-<img width="1286" height="861" alt="image" src="https://github.com/user-attachments/assets/99b731d1-e754-45f3-8dd5-7475c3c663a7" />
+![StudentREGSequence](https://github.com/user-attachments/assets/817acfeb-a55a-4f9d-92da-6d035892b961)
+
+Activity Diagram
+
+![STUDENTREGActivity](https://github.com/user-attachments/assets/52329b0b-863c-4a6b-b195-ba75452c9460)
 
 # RESULT:
 
